@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TAK.iml" filepath="$PROJECT_DIR$/.idea/TAK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic_Tac_Toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/Tic_Tac_Toe/tic-tac-toe.iml" />
+    </modules>
+  </component>
+</project>
